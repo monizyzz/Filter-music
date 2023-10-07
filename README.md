@@ -24,8 +24,9 @@ Music Filter is a simple web application that allows you to filter and display s
 - CSS
 - JavaScript
 
-<!--
 ## Screenshots
 
-![Music Filter Screenshot](/screenshots/music-filter-screenshot.png)
--->
+<div align="center">
+  <img src="screenshots/Screenshot_1.png" width="400">
+  <img src="screenshots/Screenshot_2.png" width="400">
+</div>
