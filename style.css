@@ -61,6 +61,10 @@ button.active {
 
 }
 
+.card.hide {
+    display: none;
+}
+
 .card img {
     width: 100%;
     height: 210px;
